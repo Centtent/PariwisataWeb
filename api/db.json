@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "image": "/pantai7.jpg",
+      "id": "7",
+      "nama": "Destinasi Pantai 1",
+      "city": "Teluk Karang",
+      "desc": "Pantai teluk karang adalah salah salah satu wisata pantai yg menarik untuk dikunjungi sata berlibur ke daerah bangka belitung. suasanya yg masih asri dan alami yg membuat pantai ini cocok bagi wisatawan yg ingin mengeksplorasi tempat baru."
+    },
+    {
+      "image": "/pantai8.jpg",
+      "id": "2",
+      "nama": "Destinasi Pantai 2",
+      "city": "Karanggongsong",
+      "desc": "Pantai pasir putih karanggongso sesuai dengan nama tempatnya disini adalah salah satu pantai yg memiliki pasir putih yg sangat lembut dan juga ombak yg relatif tenang sehingga pengunjung dapat berenang dan bermain air dengan aman."
+    },
+    {
+      "image": "/pantai1.jpg",
+      "id": "3",
+      "nama": "Destinasi Pantai 3",
+      "city": "Sambolo",
+      "desc": "Pantai sambolo adalah salah satu pantai yg menarik dikunjungi oleh wisatawan dikarenakan pasir putihnya yg lembut dan bersih serta air lautnya yg berwarna biru yg akan membuat mata pngunjung tertatik dengan pantai ini."
+    },
+    {
+      "image": "https://www.vistanusa.com/wp-content/uploads/2022/01/12.-Tempat-Wisata-Pantai-Terbaik-Di-Trenggalek.jpeg",
+      "id": "4",
+      "nama": "Destinasi Pantai 4",
+      "city": "Trenggalek",
+      "desc": "Pantai yang menyuguhkan pasir putih ini berada di Jalan Raya Pantai Prigi, Tasikmadu, Watulimo, Kabupaten Trenggalek. Suasana segar angin pantai cocok untuk refreshing dan juga cocok bagi wisatawan yang ingin berlayar ke tengah laut. \n\n"
+    },
+    {
+      "image": "https://akcdn.detik.net.id/visual/2021/07/06/keindahan-wisata-super-prioritas-labuan-bajo_169.jpeg?w=650",
+      "id": "5",
+      "nama": "Destinasi Pantai 3",
+      "city": "Pangandaran",
+      "desc": "Pantai ini memiliki keistimewaan, yaitu pantainya landai dengan air yang jernih serta jarak antara pasang dan surut relatif lama. Kondisi ini memungkinkan orang untuk berenang lebih lama dan juga akan dapat melihat batu karang dan ikan2 dengan jelas."
+    },
+    {
+      "image": "https://exotic.bangka.go.id/web/wp-content/uploads/2022/12/WhatsApp-Image-2022-12-01-at-13.52.51-780x470.jpeg",
+      "id": "6",
+      "nama": "Destinasi Pantai 6",
+      "city": "Batu Karang",
+      "desc": "Pantai yang menyuguhkan pasir putih ini berada di Jalan Raya Pantai Prigi, Tasikmadu, Watulimo, Kabupaten Trenggalek. Suasana segar angin pantai cocok untuk refreshing dan juga cocok bagi wisatawan yang ingin berlayar ke tengah laut. "
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "testing123"
+    }
+  ]
+}

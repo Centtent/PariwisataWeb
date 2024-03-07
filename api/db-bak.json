@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "nama": "Destinasi Pantai 1",
+      "city": "Nanggroe Aceh Darussalam",
+      "image": "/pantai1.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "2",
+      "nama": "Destinasi Pantai 2",
+      "city": "Riau",
+      "image": "/pantai2.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "3",
+      "nama": "Destinasi Pantai 3",
+      "city": "bengkulu Selatan",
+      "image": "/pantai3.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "4",
+      "nama": "Destinasi Pantai 4",
+      "city": "bandung",
+      "image": "/pantai4.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "5",
+      "nama": "Destinasi Pantai 5",
+      "city": "Sumatra Utara",
+      "image": "/pantai5.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "6",
+      "nama": "Destinasi Pantai 6",
+      "city": "Sumatra Utara",
+      "image": "/pantai6.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    }
+  ]
+}
